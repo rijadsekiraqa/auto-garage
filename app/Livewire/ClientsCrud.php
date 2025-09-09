@@ -39,7 +39,7 @@ class ClientsCrud extends Component
 
         $this->clients = Client::orderBy('id', 'desc')->get();
         $this->brands = Brand::orderBy('name', 'asc')->get();
-        return view('livewire.clients-crud')->layout('layouts.admin');
+        return view('livewire.clients-crud')->layout('layouts.app');
     }
 
 

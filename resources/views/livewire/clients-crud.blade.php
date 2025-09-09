@@ -4,7 +4,7 @@
             <div class="row">
                 <div class="col-md-12">
 
-                    <h2 class="page-title">Menaxho Klientët</h2>
+                    <h2 class="page-title">Lista e Klienteve</h2>
                     <div x-data="{ show: false, message: '' }"
                         x-on:show-success.window="show = true; message = $event.detail; setTimeout(() => show = false, 3000)">
                         <div x-show="show" x-transition class="alert alert-success" x-text="message"
@@ -18,7 +18,7 @@
                     </div>
 
                     <div class="panel panel-default">
-                        <div class="panel-heading">Përdoruesit e Regjistruar</div>
+                        <div class="panel-heading">Klientet e Regjistruar</div>
                         <div class="panel-body">
                             <table id="zctb" class="display table table-striped table-bordered table-hover">
                                 <thead>

@@ -21,7 +21,7 @@ class BrandCrud extends Component
     public function render()
     {
         $this->brands = Brand::orderBy('id', 'desc')->get();
-        return view('livewire.brand-crud')->layout('layouts.admin');
+        return view('livewire.brand-crud')->layout('layouts.app');
     }
 
     public function openCreateModal()

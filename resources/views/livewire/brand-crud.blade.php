@@ -34,14 +34,15 @@
                                         <td>{{ $brand->name }}</td>
                                         <td>
                                             <button class="btn btn-warning btn-sm"
-                                                wire:click="openEditModal({{ $brand->id }})">
-                                                Edito
+                                                wire:click="openEditModal({{ $brand->id }})"
+                                                   title="Përditëso Brendin">
+                                                    <i class="fa fa-edit"></i>
                                             </button>
-                                            <button class="btn btn-danger btn-sm"
-                                                wire:click="delete({{ $brand->id }})"
-                                                onclick="return confirm('Je i sigurt që dëshiron ta fshish?')">
-                                                Fshij
-                                            </button>
+                                            <button class="btn btn-danger btn-sm" x-data
+                                                    x-on:click.prevent="if(confirm('Je i sigurt që dëshiron ta fshish?')) $wire.delete({{ $brand->id }})"
+                                                     title="Fshije Brendin">
+                                                    <i class="fa fa-close text-white"></i>
+                                                </button>
                                         </td>
                                     </tr>
                                 @empty
