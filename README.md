@@ -86,4 +86,7 @@ Dashboard-i përmban **cards** me statistika të ndryshme si:
 ![Forma per Regjistrim Servisit](screenshots/servicestore.png)
 
 
+### Raportet
+![Tabela](screenshots/raport.png)
+
 
