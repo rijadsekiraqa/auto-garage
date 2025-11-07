@@ -66,10 +66,13 @@ Dashboard-i përmban **cards** me statistika të ndryshme si:
 
 ## 📸 Screenshots
 
-### Login Page
+### Faqja e Login-it
 ![Login](screenshots/login.png)
 
 ### Dashboard
 ![Dashboard](screenshots/5.png)
+
+### Brendet
+![Brendet](screenshots/brands.png)
 
 
