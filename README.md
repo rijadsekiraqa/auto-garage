@@ -43,7 +43,7 @@ Sistemi ofron mundësi për regjistrimin e klientëve, veturave, serviseve dhe p
 - Raporte të qarta në formë tabele
 
 ### 📈 Dashboard Statistikor
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](screenshots/5.png)
 Dashboard-i përmban **cards** me statistika të ndryshme si:
 - Numri i **Brendeve**
 - Numri i **Klientëve**
