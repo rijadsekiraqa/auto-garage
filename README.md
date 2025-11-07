@@ -43,7 +43,6 @@ Sistemi ofron mundësi për regjistrimin e klientëve, veturave, serviseve dhe p
 - Raporte të qarta në formë tabele
 
 ### 📈 Dashboard Statistikor
-![Dashboard](screenshots/5.png)
 Dashboard-i përmban **cards** me statistika të ndryshme si:
 - Numri i **Brendeve**
 - Numri i **Klientëve**
@@ -65,4 +64,12 @@ Dashboard-i përmban **cards** me statistika të ndryshme si:
 - **Role & Permissions** të menaxhuara përmes **Spatie Laravel Permission**
 - Kontroll i aksesit për module të ndryshme bazuar në rolin e përdoruesit (Admin,Staf)
 
----
+## 📸 Screenshots
+
+### Login Page
+![Login](screenshots/login.png)
+
+### Dashboard
+![Dashboard](screenshots/5.png)
+
+
