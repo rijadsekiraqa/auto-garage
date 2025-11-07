@@ -80,7 +80,10 @@ Dashboard-i përmban **cards** me statistika të ndryshme si:
 ![Forma per Regjistrim Klientit dhe Vetures](screenshots/clientform.png)
 ![Forma per Regjistrim Vetures](screenshots/addcar.png)
 
-
+### Serviset
+![Tabela](screenshots/servicetable.png)
+![Forma per Regjistrim Servisit](screenshots/servicecreate.png)
+![Forma per Regjistrim Servisit](screenshots/servicestore.png)
 
 
 
