@@ -89,4 +89,6 @@ Dashboard-i përmban **cards** me statistika të ndryshme si:
 ### Raportet
 ![Tabela](screenshots/raport.png)
 
-
+### Perdoruesit
+![Tabela](screenshots/users.png)
+![Tabela](screenshots/userscreate.png)
