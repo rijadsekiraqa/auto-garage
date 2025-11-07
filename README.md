@@ -75,4 +75,12 @@ Dashboard-i përmban **cards** me statistika të ndryshme si:
 ### Brendet
 ![Brendet](screenshots/brands.png)
 
+### Klientet
+![Tabela](screenshots/clientstable.png)
+![Forma per Regjistrim Klientit dhe Vetures](screenshots/clientform.png)
+![Forma per Regjistrim Vetures](screenshots/addcar.png)
+
+
+
+
 
